@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectData</string>
+    <string-array name="tables">
+        <item>Personal</item>
+        <item>Student </item>
+    </string-array>
+</resources>
